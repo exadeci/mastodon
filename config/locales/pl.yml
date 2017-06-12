@@ -150,6 +150,7 @@ pl:
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
+      joined: "Data dołączenia: %B %Y"
   two_factor_authentication:
     description_html: Jeśli włączysz <strong>uwierzytelnianie dwustopniowe</strong>, logowanie się będzie wymagało podania tokenu wyświetlonego na Twoim telefone.
     disable: Wyłącz
